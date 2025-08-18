@@ -2,6 +2,6 @@
 
 main java
 {
-hello world
+hello worl
 
 }
