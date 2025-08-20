@@ -1,6 +1,7 @@
 # java
 
 main java
-{
+{ 
+hello
 
 }
