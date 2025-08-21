@@ -2,6 +2,5 @@
 
 main java
 { 
-hello
 
 }
