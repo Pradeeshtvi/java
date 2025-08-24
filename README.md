@@ -1,6 +1,4 @@
 # java
 
 main java
-{ 
-
 }
